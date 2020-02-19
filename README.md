@@ -1,2 +1,2 @@
 # University
-To store my note in university
+存储我的笔记和相关的书籍，从大三下册开始，之前的没有进行电子笔记就不收录了。
